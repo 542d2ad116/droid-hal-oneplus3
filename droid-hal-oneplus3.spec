@@ -1,6 +1,6 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
-%define device oneplus
-%define vendor oneplus3
+%define device oneplus3
+%define vendor oneplus
 
 %define vendor_pretty Oneplus
 %define device_pretty Oneplus 3
